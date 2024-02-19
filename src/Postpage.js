@@ -2,7 +2,7 @@ import { useParams,Link } from "react-router-dom";
 const Postpage=({posts,handledelete})=>
 {
     const {id}=useParams();
-    const post=posts.find(post=>(post.id).toString()==id);
+    const post=posts.find(post=>(post.id).toString()===id);
     return(
     <main className="Postpage">
         <article className="post">
