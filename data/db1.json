@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first post",
+      "datetime": "18/2/2024, 8:12:53 am",
+      "body": "Made a video about  my birthday "
+    },
+    {
+      "id": "2",
+      "title": "My Second post",
+      "datetime": "January 15, 2024 , 4:30:45 PM",
+      "body": "Pongal"
+    },
+    {
+      "id": "3",
+      "title": "My third post",
+      "datetime": "April 1, 2024 , 4:30:45 PM",
+      "body": "April fools day "
+    }
+  ]
+}
